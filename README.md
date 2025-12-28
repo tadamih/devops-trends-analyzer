@@ -1,8 +1,5 @@
-# devops-trends-analyzer
+## 🏆 DevOps Trends (AI-analyzed)
 
-AI-powered semantic analysis of DevOps trends
-
-fsdf tg
-sad
-
-
+<!-- TRENDS_START -->
+> Нет релевантных DevOps-трендов за последние дни.
+<!-- TRENDS_END -->
